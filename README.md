@@ -1,1 +1,1 @@
-# MLOPS_class_labs
+# MLOPS Project from CLI
