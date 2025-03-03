@@ -1,3 +1,4 @@
 # MLOPS_class_labs
 
-This is a test of GitHub functionality. I have changed the content of this README.md file.
+It is a test for managing the conflicts on git and git hub.
+
